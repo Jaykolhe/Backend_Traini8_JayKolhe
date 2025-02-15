@@ -3,6 +3,9 @@
 
 This is a Spring Boot application that provides APIs to register and retrieve government-funded training centers.
 
+## 📌 Data Model
+![Image Alt Text](Images/TrainingCenterRegisty.png)
+
 ## 📌 Features
 1)  Register a new Training Center (POST API)  
 2)  Fetch all stored Training Centers (GET API)  
